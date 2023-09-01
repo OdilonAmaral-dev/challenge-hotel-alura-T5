@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="145a5ff9-e773-4313-b8f4-63abf7bc4e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/HotelAluraApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/dao/HospedeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/dao/ReservaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/dao/SequenciaReservaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/domain/hospede/Hospede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/domain/reserva/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/domain/reserva/SequenciaReserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/util/JPAUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/Buscar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/MenuPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/MenuUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/RegistroHospede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alura/hotel/view/ReservasView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/Ha-100px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/aH-150px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/aH-40px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/icon-buscar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/icon-reservas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/img-hotel-login-.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/lOGO-50PX.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/menu-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/pessoas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/registro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/reservado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagens/reservas-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/alura/hotel/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,19 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Android Developer/Documents/Formação Java Back End - Alura 2023/JPA - HIBERNATE/2121-jpa-hibernate-persistencia-aula_5 (1)/2121-jpa-hibernate-persistencia-aula_5&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Android Developer/Documents/Formação Java Back End - Alura 2023/JPA - HIBERNATE/2121-jpa-hibernate-persistencia-aula_5 (1)/2121-jpa-hibernate-persistencia-aula_5",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Android Developer\IdeaProjects\HotelAlura\src\main\resources" />
